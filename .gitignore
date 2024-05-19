@@ -139,3 +139,5 @@ data-bin/
 
 # Experimental Folder
 experimental/*
+
+*.txt
